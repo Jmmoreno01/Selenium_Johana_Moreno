@@ -1,0 +1,19 @@
+package clase3;
+
+import java.util.Scanner;
+
+public class EjercicioMetodo1 {
+    //Es el metodo main....
+    public static void main(String arg []){
+        Scanner input = new Scanner(System.in);
+        System.out.println("Ingrese número ");
+        int numero = input.nextInt();
+        int doble = obtenerDoble(numero);
+        System.out.println("El número doble es :"+doble);
+    }
+    //Escribir un método que reciba un número y retorne su doble
+    public static int obtenerDoble(int numero){
+        return numero * 2;
+    }
+
+}
