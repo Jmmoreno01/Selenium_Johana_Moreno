@@ -1,0 +1,18 @@
+<html>
+
+<head>
+
+<title>
+Creando repositorio en git
+</title>
+
+</head>
+
+<body>
+<p>
+Bienvenido a mi repositorio <i>página web</i>.
+<p>
+Fin del repositorio
+</body>
+
+</html>
